@@ -1,0 +1,18 @@
+div {
+    padding:8px;
+}
+
+div.sidemenu {
+    float: left;
+    top:20px;
+    left:10px;
+    background:lightgreen;
+}
+
+p.setcolor {
+    color: #FD7716;
+}
+
+p {
+    font-size: 15px;
+}
