@@ -25,7 +25,7 @@ SECRET_KEY = 'kgdvx@xp$@ntz8dz=duc1bnqbay*7l$^2i&a!ln5(jggrlgos2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['eagle0401.pythonanywhere.com']
 
 
 # Application definition
