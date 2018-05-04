@@ -1,5 +1,5 @@
 """
-WSGI config for gicodaydream project.
+WSGI config for gicoTask project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "gicodaydream.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "gicoTask.settings")
 
 application = get_wsgi_application()
